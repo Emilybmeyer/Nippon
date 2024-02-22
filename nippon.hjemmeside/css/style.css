@@ -6,6 +6,17 @@
 
 
  /*Styling af inforgraphic.html*/
+
+ 
  .infographic{
-    height: 2rem;
+   height: 45rem;
+   width: 30rem;
+ }
+
+ .infographic-div img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+   
  }
