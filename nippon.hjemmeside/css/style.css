@@ -6,7 +6,10 @@
 
 
  /*Styling af inforgraphic.html*/
+
+ 
  .infographic{
+<<<<<<< HEAD
     height: 2rem;
  }
 
@@ -43,3 +46,16 @@ footer a {
    font-size: 2rem;
    
 }
+=======
+   height: 45rem;
+   width: 30rem;
+ }
+
+ .infographic-div img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+   
+ }
+>>>>>>> 18f14e08a2f9b89604cb5dc0acafa446c6520ffe
